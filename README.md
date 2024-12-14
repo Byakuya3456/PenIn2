@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 PenIn2 Pentesting Tool
 
 Description

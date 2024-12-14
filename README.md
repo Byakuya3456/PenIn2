@@ -80,7 +80,7 @@ Contributing
 - **Byakuya3456**: Lead Developer and Project Manager. Designed the core functionality, architecture, and implementation.
 - **RakRox**: Assisted with testing and debugging.
 - **Pallavimurthy73**: Helped with refining the reporting module and overall project review.
-- **TeamMember3**: Provided feedback and suggested improvements.
+- **Bimalvray**: Provided feedback and suggested improvements.
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for new features, bug fixes, or improvements.
 

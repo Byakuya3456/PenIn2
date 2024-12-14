@@ -121,7 +121,7 @@ def dir_bruteforce(url):
     for file_path in wordlist_files:
         with open(file_path, 'r') as file:
             all_wordlists.extend([line.strip() for line in file if line.strip()])
-
+#directory brute force
     def test_directory(directory):
         if stop_condition_met:
             return

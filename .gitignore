@@ -1,0 +1,57 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.virtualenv/
+
+# Environment variables
+.env
+*.env
+
+# Cache files
+*.cache
+*.log
+*.pytest_cache/
+*.coverage
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+
+# Test outputs
+*.xml
+*.json
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Payload and wordlist directories
+xss_payloads/
+sqlpayloads/
+lfi_payloads/
+wordlists/
+
+# Other files
+*.sqlite3
+*.db

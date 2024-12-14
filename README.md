@@ -1,5 +1,3 @@
-PenIn2 Pentesting Tool
-
 Description
 -----------
 PenIn2 is a penetration testing and vulnerability scanning tool designed to help security professionals identify potential weaknesses in web applications. It includes modules for SQL Injection, XSS, directory brute-forcing, Local File Inclusion (LFI), and open port scanning. The tool generates detailed reports in JSON and XML formats for comprehensive analysis.

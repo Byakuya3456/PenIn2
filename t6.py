@@ -50,7 +50,7 @@ def log_findings(message, severity="info", risk_level=1):
     
     with open(REPORT_FILE, 'a') as report_file:
         report_file.write(f"[{severity.upper()}] {message}{risk_label}\n")
-
+#Module for SQL injection 
 def check_sql_injection(url):
     if stop_condition_met:
         return
@@ -78,7 +78,7 @@ def check_sql_injection(url):
 
     with ThreadPoolExecutor(max_workers=10) as executor:
         executor.map(test_payload, all_payloads)
-
+#Module for cross site scripting 
 def check_xss(url):
     if stop_condition_met:
         return

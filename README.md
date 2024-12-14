@@ -4,7 +4,27 @@ PenIn2 is a penetration testing and vulnerability scanning tool designed to help
 
 Features
 --------
-=======
+-Comprehensive Vulnerability Scanning:
+Detects common vulnerabilities in web applications, including SQL Injection, XSS, and Local File Inclusion (LFI).
+
+-Directory Brute-Forcing:
+Identifies hidden directories and files using customizable wordlists for enhanced coverage.
+
+-Open Port Scanning:
+Scans for commonly used ports to identify potential entry points for exploitation.
+
+-Flexible Payload Handling:
+Leverages organized payloads for effective and efficient vulnerability detection.
+
+-Automated Report Generation:
+Generates detailed audit reports in both JSON and XML formats for easy analysis and documentation.
+
+-Lightweight and Cross-Platform:
+Runs seamlessly on Windows, Termux, and other Python-supported environments.
+
+-Concurrent Testing:
+Utilizes multithreading for faster scans, ensuring minimal runtime for large targets.
+
 # PenIn2 Pentesting Tool
 
 ## Description
